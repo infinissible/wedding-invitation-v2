@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-wedding-invitation/static/css/main.adee6e91.css",
+    "main.js": "/my-wedding-invitation/static/js/main.ad7d1b01.js",
+    "static/js/787.bffb998b.chunk.js": "/my-wedding-invitation/static/js/787.bffb998b.chunk.js",
+    "static/media/7.jpeg": "/my-wedding-invitation/static/media/7.f699aa26251955a9d20d.jpeg",
+    "static/media/10.jpeg": "/my-wedding-invitation/static/media/10.2df4db3644150eb9c793.jpeg",
+    "static/media/8.jpeg": "/my-wedding-invitation/static/media/8.3b6ca456595c8736c995.jpeg",
+    "static/media/deco3.jpeg": "/my-wedding-invitation/static/media/deco3.9df8eb1a1c21f9872415.jpeg",
+    "static/media/3.jpeg": "/my-wedding-invitation/static/media/3.76d48c0ca50cfc0da6e9.jpeg",
+    "static/media/6.jpeg": "/my-wedding-invitation/static/media/6.60ac1ac020abb7b34ddb.jpeg",
+    "static/media/main.jpeg": "/my-wedding-invitation/static/media/main.0938d254e40f83475de3.jpeg",
+    "static/media/4.jpeg": "/my-wedding-invitation/static/media/4.227471654a842c8c920b.jpeg",
+    "static/media/deco1.jpeg": "/my-wedding-invitation/static/media/deco1.86045e356a6e269260fb.jpeg",
+    "static/media/0.jpeg": "/my-wedding-invitation/static/media/0.f93164c3069ac450346d.jpeg",
+    "static/media/2.jpeg": "/my-wedding-invitation/static/media/2.65ae5b207d7ce4edab6c.jpeg",
+    "static/media/5.jpeg": "/my-wedding-invitation/static/media/5.26623957bf3c2d549b7d.jpeg",
+    "static/media/11.jpeg": "/my-wedding-invitation/static/media/11.40f46182283f164a7de5.jpeg",
+    "static/media/9.jpeg": "/my-wedding-invitation/static/media/9.c8232b2cccb2740761c9.jpeg",
+    "static/media/1.jpeg": "/my-wedding-invitation/static/media/1.73a4b085f027bd3512ec.jpeg",
+    "static/media/bg1.jpeg": "/my-wedding-invitation/static/media/bg1.b4f7e38edd7a8d7b9343.jpeg",
+    "static/media/kakao.png": "/my-wedding-invitation/static/media/kakao.44a397d76cb4ffd7c230.png",
+    "index.html": "/my-wedding-invitation/index.html",
+    "main.adee6e91.css.map": "/my-wedding-invitation/static/css/main.adee6e91.css.map",
+    "main.ad7d1b01.js.map": "/my-wedding-invitation/static/js/main.ad7d1b01.js.map",
+    "787.bffb998b.chunk.js.map": "/my-wedding-invitation/static/js/787.bffb998b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adee6e91.css",
+    "static/js/main.ad7d1b01.js"
+  ]
+}
