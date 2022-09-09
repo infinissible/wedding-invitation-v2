@@ -34,7 +34,7 @@ function Main() {
             소중하고 귀한 분을 모시고자 합니다. <br />
             함께 하시어 축복해 주시면 <br />큰 기쁨으로 간직하겠습니다.
           </p>
-          <div className='flex inline ml-50 justify-end pr-60'>
+          <div className='flex inline ml-50 justify-end pr-50'>
             <div className='mx-20'>
               <p className='invite my-5'>
                 유 점 순 <span className='sm'> 의 아들</span> 승 진

@@ -1,7 +1,7 @@
 body {
   background-image: url('../src/assets/jpg/bg1.jpeg');
   /* background: rgba(216, 214, 212, 0.1); */
-  max-width: 375px;
+  max-width: 370px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -130,8 +130,8 @@ footer {
   padding-bottom: 30px;
 }
 
-.pr-60 {
-  padding-right: 60px;
+.pr-50 {
+  padding-right: 50px;
 }
 
 .p-30 {
@@ -316,7 +316,6 @@ footer {
 
 .btn {
   background-color: rgba(7, 7, 7, 0.5);
-  border: 1px solid rgba(131, 122, 122, 0.4);
   width: 200px;
   padding: 5px;
   font-size: 15px;
