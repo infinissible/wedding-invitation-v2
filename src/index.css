@@ -138,6 +138,10 @@ footer {
   padding: 30px;
 }
 
+.pb-60 {
+  padding-bottom: 60px;
+}
+
 .invite {
   font-family: 'Nanum Myeongjo', serif;
   font-size: 17px;
@@ -179,7 +183,7 @@ footer {
 }
 
 .location {
-  background: rgba(230, 229, 229, 0.7);
+  background: rgba(230, 229, 229, 0.6);
 }
 
 .gallery {

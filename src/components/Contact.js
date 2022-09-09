@@ -34,7 +34,7 @@ function Contact() {
   }
 
   return (
-    <div className='m-b-10 py-20 mt-60'>
+    <div className='m-b-10 py-20 mt-60 location'>
       <p className='gallery'>연 락 처</p>
       {info.map((src, index) => (
         <div key={`contact ${index}`} className='mt-40 flex inline relative'>
@@ -82,7 +82,7 @@ function Contact() {
           </div>
         </div>
       ))}
-      <div className='mt-80 text'>
+      <div className='mt-80 text pb-60'>
         <div>
           <h3>마음 전하실 곳</h3>
         </div>
