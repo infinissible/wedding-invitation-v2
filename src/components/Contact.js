@@ -82,7 +82,7 @@ function Contact() {
           </div>
         </div>
       ))}
-      <div className='mt-80 text text-sm'>
+      <div className='mt-80 text'>
         <div>
           <h3>마음 전하실 곳</h3>
         </div>

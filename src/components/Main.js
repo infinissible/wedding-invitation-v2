@@ -13,7 +13,7 @@ function Main() {
         </h2>
       </div>
       <div className='border'>
-        <img width={330} alt='main' src={main} />
+        <img width={360} alt='main' src={main} />
       </div>
       <div className='location'>
         <p className='py-20 text'>
@@ -23,7 +23,7 @@ function Main() {
 
         <div className='bgi2 text-center'>
           <p className='p-30 invite line'>
-            청명한 가을하늘빛 풍성한 <br />
+            청명한 가을 하늘빛 풍성한 <br />
             결실의 계절에 두 사람이 하나 되는
             <br />
             서약을 맺고자 합니다.
