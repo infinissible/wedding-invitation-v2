@@ -83,7 +83,7 @@ function Contact() {
         </div>
       ))}
       <div className='mt-80 text pb-60'>
-        <div>
+        {/* <div>
           <h3>마음 전하실 곳</h3>
         </div>
         <div className='mt-40 my-15'>
@@ -117,7 +117,7 @@ function Contact() {
               신부측 계좌번호
             </div>
           )}
-        </div>
+        </div> */}
       </div>
     </div>
   );
